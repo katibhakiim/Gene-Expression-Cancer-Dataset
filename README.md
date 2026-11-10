@@ -89,9 +89,11 @@ Gene-Expression-Cancer-Dataset/
 
 - Python 3.12
 - Jupyter Notebook
+- os
 - Pandas
 - NumPy
 - Matplotlib
+- seaborn
 - Scikit-learn
 
 ## 7. Getting Started
